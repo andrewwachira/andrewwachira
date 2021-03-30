@@ -2,11 +2,12 @@
 - 👀 I’m interested in ...Web development, the MERN stack, and making websites look good on the front end and functional from the backend 
 - 🌱 I’m currently learning ... Ruby on rails, more MERN, and Java.
 - 💞️ I’m looking to collaborate on ...any  web development stuff.
-- 📫 How to reach me can be through email or twtter.
+- 📫 How to reach me can be through email fiverr or twtter.
 
  const contacts = {
     "email" : "andrewwachira1@gmail.com",
-    "twitter": "https://twitter.com/andrew_wachira1"
+    "twitter": "https://twitter.com/andrew_wachira1",
+    "fiverr": "https://www.fiverr.com/andrewcoder"
  }
 
 <!---
